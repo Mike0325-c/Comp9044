@@ -7,7 +7,9 @@ import re
 
 
 def command_q():
+  result = []
   print('this is command q')
+  return result;
 
 
 def command_p():
